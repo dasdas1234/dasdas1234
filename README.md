@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 인공지능과 데이터분석을 공부하는 김지형입니다
+- 안녕하세요! 저는 깁지형입니다. 개발을 사랑하는 학생으로, 효율적인 문제 해결을 위해 항상 배우고 성장하려고 노력합니다. 제 프로젝트를 살펴보시고, 피드백이나 기여를 남겨주세요!
 
 <!--
 **dasdas1234/dasdas1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
